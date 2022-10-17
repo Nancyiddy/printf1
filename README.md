@@ -44,9 +44,9 @@ If the program runs successfully, the **return value** is the amount of chars pr
 
 ## Examples
 
-1. Printing the string of chars "Hello, Holberton":
-	+ Use: `_printf("Hello Hol%s.", "berton");`
-	+ Output: `Hello Holberton.`
+1. Printing the string of chars "Hello, main":
+	+ Use: `_printf("Hello ma%s.", "in");`
+	+ Output: `Hello main.`
 	
 2. Printing an integer number:
 	+ Use: `_printf("10 + 10 is equal to %d.", 20);`
@@ -322,7 +322,7 @@ Function That Returns The Amount Of Indetifiers.
 ------------
 
 ### Authors
-Diego Lopez and Luis Chaparro.
+Nancy Idiong and Fortunatus Felix
 
 ------------
 
